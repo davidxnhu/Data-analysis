@@ -1,5 +1,5 @@
 # Data-analysis
 
-Courses on Udacity
+Courses on Udacity, please check their website for course details
 
-ref: https://github.com/yangju2011
+some references of the project from: https://github.com/yangju2011
